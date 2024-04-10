@@ -1,6 +1,7 @@
-// dllmain.cpp : Définit le point d'entrée de l'application DLL.
 #include "pch.h"
 #include <windows.h>
+#include <winsock2.h>
+#include <iostream>
 #pragma comment (lib, "user32.lib")
 
 
